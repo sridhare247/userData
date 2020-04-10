@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce301db2-a985-4a56-b6c2-97bda979f82b" name="Default Changelist" comment="src folder">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/userData.iml" afterDir="false" />
+>>>>>>> 49e17ff0709f8b87a51b8f2e18b902cc827ddaa9
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +27,26 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="userData" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="userData" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aAAcomlg8SBJkr5AxTnigFOSOz" />
@@ -53,6 +59,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="ServiceViewManager">
@@ -78,6 +85,35 @@
       <option name="presentableId" value="Default" />
       <updated>1586168106148</updated>
     </task>
+    <task id="LOCAL-00001" summary="src folder">
+      <created>1586170427188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586170427188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;src folder&quot;&#10;&#10;This reverts commit eb661a3f">
+      <created>1586170600518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586170600518</updated>
+    </task>
+    <task id="LOCAL-00003" summary="src folder">
+      <created>1586171248118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586171248118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="src folder">
+      <created>1586171548056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586171548056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,20 +121,47 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;src folder&quot;&#10;&#10;This reverts commit eb661a3f" />
+    <MESSAGE value="src folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="src folder" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586168796968">
+    <state x="441" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586171474297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586168796968" />
+    <state x="441" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586171474297" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586171535360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586171535360" />
     <state x="463" y="80" key="FileChooserDialogImpl" timestamp="1586168955559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="80" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586168955559" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1586170764493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586170764493" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1586171554046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586171554046" />
+    <state x="436" y="154" key="git4idea.merge.GitMergeDialog" timestamp="1586172708614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="154" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586172708614" />
+    <state x="402" y="154" key="git4idea.merge.GitPullDialog" timestamp="1586172674537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="154" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1586172674537" />
   </component>
 </project>
