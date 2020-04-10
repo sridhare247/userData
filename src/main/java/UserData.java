@@ -8,4 +8,7 @@ public void getDataMaster(){
 
     public void getUser(){
     }
+
+public void getDetails(){
+}
 }
