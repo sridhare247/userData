@@ -6,5 +6,6 @@ public void getUser(){
 public void getDataMaster(){
 }
 
-
+    public void getUser(){
+    }
 }
